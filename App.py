@@ -1,0 +1,10 @@
+transaction_id
+user_id
+amount
+transaction_type
+merchant_category
+country
+hour
+device_risk_score
+ip_risk_score
+is_fraud
